@@ -1,0 +1,60 @@
+<?xml version="1.0"?>
+<testsuites>
+<testsuite name="Root Suite" timestamp="2020-07-28T09:54:56" tests="0" file="cypress\integration\firstAPITest.spec.js" time="0.0000" failures="0"></testsuite>
+<testsuite name="Test with backend" timestamp="2020-07-28T09:54:56" tests="4" time="26.1930" failures="0">
+  
+  <testcase name="Test with backend verify correct request and response from API" time="10.1080" classname="verify correct request and response from API"></testcase>
+  
+  <testcase name="Test with backend should give tags with routing object" time="5.3120" classname="should give tags with routing object"></testcase>
+  
+  <testcase name="Test with backend verify global feed likes count" time="1.8490" classname="verify global feed likes count"></testcase>
+  
+  <testcase name="Test with backend deleting a new article in the Global Feed" time="8.9240" classname="deleting a new article in the Global Feed"></testcase>
+  
+</testsuite>
+
+<testsuite name="Root Suite" timestamp="2020-07-28T09:55:25" tests="0" file="cypress\integration\secondTest.spec.js" time="0.0000" failures="0"></testsuite>
+<testsuite name="Test log out" timestamp="2020-07-28T09:55:25" tests="1" time="2.7930" failures="0">
+  
+  <testcase name="Test log out verify logging out" time="2.7930" classname="verify logging out"></testcase>
+  
+</testsuite>
+
+<testsuite name="Root Suite" timestamp="2020-07-28T09:54:56" tests="0" file="cypress\integration\firstAPITest.spec.js" time="0.0000" failures="0"/>
+<testsuite name="Test with backend" timestamp="2020-07-28T09:54:56" tests="4" time="26.1930" failures="0">
+  
+  <testcase name="Test with backend verify correct request and response from API" time="10.1080" classname="verify correct request and response from API"/>
+  
+  <testcase name="Test with backend should give tags with routing object" time="5.3120" classname="should give tags with routing object"/>
+  
+  <testcase name="Test with backend verify global feed likes count" time="1.8490" classname="verify global feed likes count"/>
+  
+  <testcase name="Test with backend deleting a new article in the Global Feed" time="8.9240" classname="deleting a new article in the Global Feed"/>
+  
+</testsuite>
+<testsuite name="Root Suite" timestamp="2020-07-28T09:55:25" tests="0" file="cypress\integration\secondTest.spec.js" time="0.0000" failures="0"/>
+<testsuite name="Test log out" timestamp="2020-07-28T09:55:25" tests="1" time="2.7930" failures="0">
+  
+  <testcase name="Test log out verify logging out" time="2.7930" classname="verify logging out"/>
+  
+</testsuite>
+<testsuite name="Root Suite" timestamp="2020-07-28T09:54:56" tests="0" file="cypress\integration\firstAPITest.spec.js" time="0.0000" failures="0"/>
+<testsuite name="Test with backend" timestamp="2020-07-28T09:54:56" tests="4" time="26.1930" failures="0">
+  
+  <testcase name="Test with backend verify correct request and response from API" time="10.1080" classname="verify correct request and response from API"/>
+  
+  <testcase name="Test with backend should give tags with routing object" time="5.3120" classname="should give tags with routing object"/>
+  
+  <testcase name="Test with backend verify global feed likes count" time="1.8490" classname="verify global feed likes count"/>
+  
+  <testcase name="Test with backend deleting a new article in the Global Feed" time="8.9240" classname="deleting a new article in the Global Feed"/>
+  
+</testsuite>
+<testsuite name="Root Suite" timestamp="2020-07-28T09:55:25" tests="0" file="cypress\integration\secondTest.spec.js" time="0.0000" failures="0"/>
+<testsuite name="Test log out" timestamp="2020-07-28T09:55:25" tests="1" time="2.7930" failures="0">
+  
+  <testcase name="Test log out verify logging out" time="2.7930" classname="verify logging out"/>
+  
+</testsuite>
+
+</testsuites>
